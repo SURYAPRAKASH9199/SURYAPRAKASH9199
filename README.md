@@ -1,214 +1,241 @@
 <div align="center">
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Surya+Prakash+👋;AI+%2F+ML+Engineer+in+Progress+🚀;Deep+Learning+Enthusiast+🧠;Computer+Vision+Developer+🌿;Open+to+Internship+%26+Full-Time+Roles!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surya%20Prakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🤖+Building+AI+that+thinks+%26+sees;🌿+Trained+EfficientNetB3+on+28+Plants;📊+NLP+%7C+CV+%7C+Forecasting+%7C+MLOps;🚀+Open+to+Internship+%26+Full-Time+Roles!)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-08320734a)
-[![Gmail](https://img.shields.io/badge/Gmail-balajeesuryaprakash%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajeesuryaprakash@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SURYAPRAKASH9199-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURYAPRAKASH9199)
-[![Profile Views](https://komarev.com/ghpvc/?username=SURYAPRAKASH9199&label=Profile%20Views&color=00F7FF&style=for-the-badge)](https://github.com/SURYAPRAKASH9199)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-08320734a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajeesuryaprakash@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURYAPRAKASH9199)
+[![Profile Views](https://komarev.com/ghpvc/?username=SURYAPRAKASH9199&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SURYAPRAKASH9199)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```python
 class SuryaPrakash:
-    def __init__(self):
-        self.name        = "Surya Prakash"
-        self.degree      = "B.Tech in Information Technology"
-        self.university  = "KIIT University, Bhubaneswar"
-        self.interests   = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
-        self.looking_for = ["ML Internship", "Data Science Roles", "AI Engineer Roles"]
-        self.languages   = ["Python", "Java", "C", "SQL"]
-        self.superpower  = "Turning raw data into intelligent systems 🚀"
+
+    name        = "Surya Prakash"
+    degree      = "B.Tech – Information Technology"
+    university  = "KIIT University, Bhubaneswar"
+    location    = "Bhubaneswar, Odisha 🇮🇳"
+
+    skills = {
+        "Languages"  : ["Python", "Java", "C", "SQL"],
+        "AI / ML"    : ["TensorFlow", "Keras", "Scikit-learn", "NLTK"],
+        "Data"       : ["Pandas", "NumPy", "Matplotlib", "Power BI"],
+        "Tools"      : ["Git", "Jupyter", "Google Colab", "VS Code"],
+    }
+
+    currently    = "Building AI systems that solve real problems 🔥"
+    looking_for  = ["ML Internship", "Data Science", "AI Engineer"]
+    superpower   = "Turn raw data → intelligent systems 🚀"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = SuryaPrakash()
-me.say_hi()
+        print("Thanks for visiting! Let's build something amazing. 🤝")
 ```
 
-> 🔭 Currently building AI-powered tools that solve **real-world problems**
-> 🌱 Learning **Model Optimization**, **MLOps**, and **Advanced Neural Architectures**
-> 💼 Actively seeking **Internship / Full-Time** roles in **AI · ML · Data Science**
-> ⚡ Fun fact: I trained a model that identifies **28 medicinal plant species** from a photo!
+- 🔭 Built **Botanica.ai** — recognizes **28 Indian medicinal plants** from a single photo
+- 🧠 Passionate about **Deep Learning, NLP & Computer Vision**
+- 🌱 Currently mastering **Model Optimization & Advanced Neural Architectures**
+- 💼 Seeking **Internship / Full-Time** in **AI · ML · Data Science**
+- ⚡ Intern @ **Future Interns** — delivered **3 production-ready ML projects**
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-85C1E9?style=for-the-badge)
+### 🤖 AI · ML · Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-27AE60?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
----
-
-### 🌿 [Botanica.ai — AI Medicinal Plant Recognition System](https://github.com/SURYAPRAKASH9199/Botanica.ai)
-
-> *"A photo of a leaf → instant identification of 28 Indian medicinal plants with properties, uses & safety warnings"*
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-00C853?style=flat-square)
-![EfficientNetB3](https://img.shields.io/badge/EfficientNetB3-Transfer%20Learning-FF6F00?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
-**What it does:**
-- 📸 Classifies **28 Indian medicinal plant species** from a single image
-- 🧠 Powered by **EfficientNetB3** with Transfer Learning (ImageNet weights)
-- 🌿 Returns: plant name, scientific name, medicinal uses, key compounds & **safety warnings**
-- ⚡ Trained on **IMFI Dataset** via GPU-accelerated Google Colab (~35 min training)
-- 🔗 JSON-powered medicinal knowledge base for instant property lookup
-
-**Tech:** `TensorFlow` · `Keras` · `EfficientNetB3` · `ImageDataGenerator` · `Python` · `NumPy` · `Matplotlib`
-
----
-
-### 🎫 [FUTURE_ML_02 — Support Ticket Classification & Prioritization](https://github.com/SURYAPRAKASH9199/FUTURE_ML_02)
-
-> *"Reads a customer support ticket → classifies it → assigns priority — automatically, in milliseconds"*
-
-![NLP](https://img.shields.io/badge/NLP-Text%20Classification-7C4DFF?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Category%20Accuracy-90%25%2B-brightgreen?style=flat-square)
-![Priority](https://img.shields.io/badge/Priority%20Accuracy-85%25%2B-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
-**What it does:**
-- 🏷️ Classifies tickets into: `Billing` · `Technical Issue` · `Account` · `General Query`
-- 🚦 Assigns priority levels: 🔴 High / 🟡 Medium / 🟢 Low
-- 📊 Compares **4 ML models** (Logistic Regression, Random Forest, LinearSVC, Naive Bayes)
-- 🔍 Full NLP pipeline: text cleaning → TF-IDF (5000 features, bigrams) → model → `.pkl` save
-- 💾 Live prediction function for new unseen tickets
-
-**Tech:** `scikit-learn` · `NLTK` · `TF-IDF` · `joblib` · `Pandas` · `Matplotlib` · `Seaborn`
-
----
-
-### 🤖 [FUTURE_ML_03 — Resume Screening & Candidate Ranking System](https://github.com/SURYAPRAKASH9199/FUTURE_ML_03)
-
-> *"2484 real resumes → scored, ranked & skill-gap analyzed — like Naukri.com under the hood"*
-
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-2196F3?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-2484%20Resumes-blueviolet?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
-**What it does:**
-- 📄 Screens **2484 real resumes** from Kaggle automatically
-- ⭐ Scores each candidate **out of 100** using weighted formula: `60% TF-IDF + 40% Skill Match`
-- 🏆 Ranks candidates: 🟢 Strong Fit · 🟡 Moderate · 🟠 Weak · 🔴 Not Fit
-- ❌ Identifies **missing skills** per candidate with actionable skill gap analysis
-- 📊 Generates 4 visual charts + exports ranked results to CSV
-
-**Tech:** `scikit-learn` · `NLTK` · `TF-IDF` · `Cosine Similarity` · `Pandas` · `Matplotlib` · `Seaborn`
-
----
-
-### 📈 [FUTURE_ML_01 — Sales & Demand Forecasting System](https://github.com/SURYAPRAKASH9199/FUTURE_ML_01)
-
-> *"2 years of retail data → 30-day sales forecast → actionable business insights dashboard"*
-
-![Forecasting](https://img.shields.io/badge/Time%20Series-Forecasting-FF6F00?style=flat-square)
-![Models](https://img.shields.io/badge/3%20ML%20Models%20Compared-Random%20Forest%20Best-brightgreen?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
-**What it does:**
-- 📅 Processes **2 years of retail sales data** with trend & seasonality features
-- 🔮 Forecasts **next 30 days of sales** with confidence range
-- 🏆 Trains & compares 3 models: `Linear Regression` · `Random Forest` · `Gradient Boosting`
-- 📊 Produces a **5-chart business dashboard** with monthly breakdown & holiday spike analysis
-- 💼 Outputs a written business report with inventory & staffing recommendations
-
-**Tech:** `scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
-
----
-
-### 📊 [Power BI Sales Dashboard](https://github.com/SURYAPRAKASH9199/powerbi-sales-dashboard)
-
-> *"Interactive business intelligence dashboard for sales performance tracking & insights"*
-
-![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
-**What it does:**
-- 📈 Visual sales performance dashboard built in **Microsoft Power BI**
-- 🔍 Interactive filters for region, product, and time period analysis
-- 💡 Business KPIs, trend lines, and revenue breakdowns at a glance
-
-**Tech:** `Power BI` · `DAX` · `Data Modeling`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SURYAPRAKASH9199&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SURYAPRAKASH9199&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYAPRAKASH9199&theme=tokyonight&hide_border=true)
+### 🛠️ Tools & Platforms
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> I'm actively seeking **Internships** and **Full-Time roles** in:
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> Featured Projects
 
-| Role | Status |
-|------|--------|
-| 🤖 ML / AI Engineer Intern | ✅ Open |
-| 📊 Data Science Intern | ✅ Open |
-| 🧠 Deep Learning / Computer Vision | ✅ Open |
-| ☁️ ML + Cloud (AWS / GCP) | ✅ Open |
+> 🏆 **5 real-world, end-to-end AI/ML projects** — from idea to working output
 
 ---
 
-## 🤝 Let's Connect!
+### 🌿 Botanica.ai — Indian Medicinal Plant Recognition System
+[![Repo](https://img.shields.io/badge/GitHub-Botanica.ai-181717?style=for-the-badge&logo=github)](https://github.com/SURYAPRAKASH9199/Botanica.ai)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-00C853?style=flat-square&logo=tensorflow)
+![Model](https://img.shields.io/badge/Model-EfficientNetB3-FF6F00?style=flat-square)
+![Plants](https://img.shields.io/badge/Classes-28%20Plants-2ECC71?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
+> *One photo of a leaf → instant plant ID with medicinal properties, uses & safety warnings*
+
+| Feature | Detail |
+|---|---|
+| 🧠 Model | EfficientNetB3 with Transfer Learning (ImageNet weights) |
+| 🌿 Dataset | IMFI — 28 Indian Medicinal Flower species |
+| 📦 Output | Plant name · Scientific name · Medicinal uses · Safety warnings |
+| ⚡ Training | GPU-accelerated Google Colab (~35 min) |
+| 🔗 Knowledge | JSON-powered medicinal properties database |
+
+**`TensorFlow`** · **`Keras`** · **`EfficientNetB3`** · **`ImageDataGenerator`** · **`NumPy`** · **`Matplotlib`**
+
+---
+
+### 🎫 Support Ticket Classifier — NLP Automation
+[![Repo](https://img.shields.io/badge/GitHub-FUTURE__ML__02-181717?style=for-the-badge&logo=github)](https://github.com/SURYAPRAKASH9199/FUTURE_ML_02)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-7C4DFF?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Category%20Accuracy-90%25+-brightgreen?style=flat-square)
+![Priority](https://img.shields.io/badge/Priority%20Accuracy-85%25+-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
+> *Support ticket arrives → category classified → priority assigned — in milliseconds, automatically*
+
+| Feature | Detail |
+|---|---|
+| 🏷️ Categories | Billing · Technical Issue · Account · General Query |
+| 🚦 Priorities | 🔴 High · 🟡 Medium · 🟢 Low — auto-assigned |
+| 🤖 Models | 4 models compared: Logistic Regression, Random Forest, LinearSVC, Naive Bayes |
+| 📊 Pipeline | Text cleaning → TF-IDF (5000 features, bigrams) → Train → Save `.pkl` |
+| 💾 Output | Live prediction on new unseen tickets |
+
+**`scikit-learn`** · **`NLTK`** · **`TF-IDF`** · **`joblib`** · **`Pandas`** · **`Matplotlib`** · **`Seaborn`**
+
+---
+
+### 🤖 Resume Screening System — AI-Powered HR Automation
+[![Repo](https://img.shields.io/badge/GitHub-FUTURE__ML__03-181717?style=for-the-badge&logo=github)](https://github.com/SURYAPRAKASH9199/FUTURE_ML_03)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-2196F3?style=flat-square)
+![Dataset](https://img.shields.io/badge/Dataset-2484%20Real%20Resumes-blueviolet?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
+> *2484 resumes → each scored out of 100 → ranked → skill gaps exposed — like Naukri.com under the hood*
+
+| Feature | Detail |
+|---|---|
+| 📊 Score Formula | `Final Score = (TF-IDF Match × 60%) + (Skill Match × 40%)` |
+| 🏆 Fit Labels | 🟢 Strong Fit (70-100) · 🟡 Moderate (50-69) · 🟠 Weak (30-49) · 🔴 Not Fit |
+| ❌ Skill Gap | Identifies exact missing skills per candidate |
+| 📈 Visuals | 4 charts: Top candidates · Score breakdown · Distribution · Skill gap |
+| 💾 Export | Full ranked CSV ready for HR teams |
+
+**`scikit-learn`** · **`NLTK`** · **`TF-IDF`** · **`Cosine Similarity`** · **`Pandas`** · **`Matplotlib`**
+
+---
+
+### 📈 Sales & Demand Forecasting System
+[![Repo](https://img.shields.io/badge/GitHub-FUTURE__ML__01-181717?style=for-the-badge&logo=github)](https://github.com/SURYAPRAKASH9199/FUTURE_ML_01)
+![Forecasting](https://img.shields.io/badge/Time%20Series-Sales%20Forecasting-FF6F00?style=flat-square)
+![Forecast](https://img.shields.io/badge/Forecast-30%20Days%20Ahead-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
+> *2 years of retail data → 30-day forecast → 5-chart business dashboard → actionable business report*
+
+| Feature | Detail |
+|---|---|
+| 📅 Input | 2 years retail sales with trend & seasonality features |
+| 🔮 Forecast | Next 30 days with confidence range |
+| 🏆 Models | Linear Regression · **Random Forest (Best)** · Gradient Boosting |
+| 📊 Dashboard | 5-chart visual: monthly breakdown, holiday spikes, forecast curve |
+| 💼 Report | Inventory & staffing recommendations for business teams |
+
+**`scikit-learn`** · **`Pandas`** · **`NumPy`** · **`Matplotlib`** · **`Seaborn`**
+
+---
+
+### 📊 Power BI Sales Dashboard — Business Intelligence
+[![Repo](https://img.shields.io/badge/GitHub-powerbi--sales--dashboard-181717?style=for-the-badge&logo=github)](https://github.com/SURYAPRAKASH9199/powerbi-sales-dashboard)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
+> *Interactive BI dashboard with KPIs, revenue trends & regional breakdowns — all in one view*
+
+**`Power BI`** · **`DAX`** · **`Data Modeling`** · **`Interactive Filters`**
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-08320734a)
-[![Gmail](https://img.shields.io/badge/Email-Drop%20a%20Mail!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajeesuryaprakash@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me!-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURYAPRAKASH9199)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SURYAPRAKASH9199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SURYAPRAKASH9199&theme=tokyonight&hide_border=true" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURYAPRAKASH9199&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 I'm Open To
+
+<div align="center">
+
+| 🤖 ML / AI Engineer | 📊 Data Science | 🧠 Deep Learning / CV | 🔬 Research |
+|:---:|:---:|:---:|:---:|
+| ✅ Open | ✅ Open | ✅ Open | ✅ Open |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Something Amazing!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-08320734a)
+[![Gmail](https://img.shields.io/badge/Email-Drop%20a%20Mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajeesuryaprakash@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me!-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURYAPRAKASH9199)
 
 <br/>
 
 *"The best way to learn Machine Learning is to build something real — and everything here is real."* 🚀
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
