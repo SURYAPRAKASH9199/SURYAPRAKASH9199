@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surya%20Prakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🤖+Building+AI+that+thinks+%26+sees;🌿+Trained+EfficientNetB3+on+28+Plants;📊+NLP+%7C+CV+%7C+Forecasting+%7C+MLOps;🚀+Open+to+Internship+%26+Full-Time+Roles!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hi!+I'm+Surya+Prakash+👋;AI+%7C+ML+%7C+Cloud+Enthusiast+🚀;Building+AI+that+Thinks+%26+Sees+🤖;Deep+Learning+%7C+NLP+%7C+Computer+Vision+🧠;Actively+Seeking+Internship+Roles+💼;Open+to+Full-Time+AI+%2F+ML+Positions+✅)](https://git.io/typing-svg)
 
 <br/>
 
