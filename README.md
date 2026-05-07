@@ -109,8 +109,8 @@ class SuryaPrakash:
 | Technology | Category | Status |
 |------------|----------|--------|
 | HTML | Web Development | ✅ Completed |
-| CSS | Web Development | 🔄 In Progress |
-| JavaScript | Web Development | 🔜 Up Next |
+| CSS | Web Development |  ✅ Completed |
+| JavaScript | Web Development | 🔄 In Progress |
 | React.js | Web Development | 🔜 Upcoming |
 | Model Optimization | AI / ML | 🔄 In Progress |
 | Advanced Neural Networks | Deep Learning | 🔄 In Progress |
