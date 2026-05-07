@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surya%20Prakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hi!+I'm+Surya+Prakash+👋;AI+%7C+ML+%7C+Cloud+Enthusiast+🚀;Building+AI+that+Thinks+%26+Sees+🤖;Deep+Learning+%7C+NLP+%7C+Computer+Vision+🧠;Actively+Seeking+Internship+Roles+💼;Open+to+Full-Time+AI+%2F+ML+Positions+✅)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hi!+I'm+Surya+Prakash+👋;AI+%7C+ML+%7C+Cloud+Enthusiast+🚀;Building+AI+that+Thinks+%26+Sees+🤖;Deep+Learning+%7C+NLP+%7C+Computer+Vision+🧠;Learning+Full-Stack+Web+Development+🌐;Actively+Seeking+Internship+Roles+💼;Open+to+Full-Time+AI+%2F+ML+Positions+✅)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,10 +33,11 @@ class SuryaPrakash:
         "Languages"  : ["Python", "Java", "C", "SQL"],
         "AI / ML"    : ["TensorFlow", "Keras", "Scikit-learn", "NLTK"],
         "Data"       : ["Pandas", "NumPy", "Matplotlib", "Power BI"],
+        "Web"        : ["HTML", "CSS", "JavaScript (Learning)"],
         "Tools"      : ["Git", "Jupyter", "Google Colab", "VS Code"],
     }
 
-    currently    = "Building AI systems that solve real problems 🔥"
+    currently    = "Building AI systems + Learning Full-Stack Web Dev 🔥"
     looking_for  = ["ML Internship", "Data Science", "AI Engineer"]
     superpower   = "Turn raw data → intelligent systems 🚀"
 
@@ -47,7 +48,8 @@ class SuryaPrakash:
 - 🔭 Built **Botanica.ai** — recognizes **28 Indian medicinal plants** from a single photo
 - 🧠 Passionate about **Deep Learning, NLP & Computer Vision**
 - 🌱 Currently mastering **Model Optimization & Advanced Neural Architectures**
-- 💼 Seeking **Internship / Full-Time** in **AI · ML · Data Science**
+- 🌐 Learning **Full-Stack Web Development** — HTML ✅ · CSS 🔄 · JS 🔜
+- 💼 Seeking **Internship / Full-Time** in **AI · ML · Data Science · Web Dev**
 - ⚡ Intern @ **Future Interns** — delivered **3 production-ready ML projects**
 
 <br clear="both"/>
@@ -73,6 +75,12 @@ class SuryaPrakash:
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-27AE60?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Upcoming-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -87,6 +95,27 @@ class SuryaPrakash:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Technology | Category | Status |
+|------------|----------|--------|
+| HTML | Web Development | ✅ Completed |
+| CSS | Web Development | 🔄 In Progress |
+| JavaScript | Web Development | 🔜 Up Next |
+| React.js | Web Development | 🔜 Upcoming |
+| Model Optimization | AI / ML | 🔄 In Progress |
+| Advanced Neural Networks | Deep Learning | 🔄 In Progress |
+
+> 💡 **Goal:** Become a Full-Stack AI Engineer — strong in both ML systems & modern web interfaces
 
 </div>
 
@@ -214,9 +243,9 @@ class SuryaPrakash:
 
 <div align="center">
 
-| 🤖 ML / AI Engineer | 📊 Data Science | 🧠 Deep Learning / CV | 🔬 Research |
-|:---:|:---:|:---:|:---:|
-| ✅ Open | ✅ Open | ✅ Open | ✅ Open |
+| 🤖 ML / AI Engineer | 📊 Data Science | 🧠 Deep Learning / CV | 🌐 Full-Stack Web Dev | 🔬 Research |
+|:---:|:---:|:---:|:---:|:---:|
+| ✅ Open | ✅ Open | ✅ Open | ✅ Open | ✅ Open |
 
 </div>
 
